@@ -12,10 +12,8 @@ This will run locally in your browser from index.html if you download all files 
 
 
 ***Built with***
- - Javascript
- - HTML
- - CSS
-
+ - Java
+ 
 
 
 ***Legal Disclaimer***  
